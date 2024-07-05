@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Preston Arnold</h1>
-<h3 align="center">A passionate full-stack developer from United Kingdom</h3>
+<h3 align="center">A passionate 14 y/o full-stack developer from United Kingdom</h3>
 
 - 🔭 I’m currently working on **Radio Software**
 
